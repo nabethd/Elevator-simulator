@@ -8,7 +8,16 @@ based on user calls.
 
 To run the client application locally, follow these steps:
 
-1. Install dependencies:
+1. Clone the repository:
+
+    ```shell
+   git clone git@github.com:nabethd/Elevator-simulator.git
+   
+2. Navigate to the project directory:
+    ```shell
+   cd elevator-simulator
+
+3. Install dependencies:
    ```shell
     npm install
 

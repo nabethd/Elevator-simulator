@@ -1,4 +1,4 @@
-# Arbox Elevator Simulator
+# Elevator Simulator
 
 Welcome to the Elevator Simulator, a web-based application that simulates the behavior of elevators
 in a building. This project provides a visual representation of elevators moving between floors

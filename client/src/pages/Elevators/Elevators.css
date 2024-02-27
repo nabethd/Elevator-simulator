@@ -1,0 +1,42 @@
+.elevators-page {
+    display: flex;
+    flex-shrink: 1;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.elevators-wrapper {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #ebebeb;
+    align-items: center;
+    overflow: scroll;
+    padding: 50px;
+}
+
+.floors {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+    margin-right: 16px;
+    justify-content: space-around;
+}
+
+.grid-layout {
+    display: flex;
+    flex-direction: row;
+}
+
+.elevators-buttons {
+    margin-left: 16px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+}
+
+.call-button {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

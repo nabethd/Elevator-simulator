@@ -139,11 +139,11 @@ const Elevators = () => {
         });
       }
     }
-  }, [callQueue.length, buttonsArray]);
+  }, [callQueue.length, buttonsArray, elevatorsArray]);
 
   return (
     <div className="elevators-wrapper">
-      <h2 className="sub-heading">Elevator exercise </h2>
+      <h2>Elevator exercise </h2>
       <div className="elevators-page">
         <div className="floors">
           {Array.from({ length: floors }, (_, index) => (
